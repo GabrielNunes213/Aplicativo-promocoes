@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nome": "Natura Homem Cor.agio 100 ml",
+    "descricao": "Natura Homem Cor.agio é uma fragrância que celebra a coragem e a autenticidade. com notas amadeiradas e frescas, esta fragrância é ideal para o homem que enfrenta desafios com determinação e confiança, sem perder a leveza e a elegância.",
+    "preco": 188.40,
+    "precoAntigo": 289.90,
+    "imagem": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw49d12f59/Produtos/NATBRA-89834/NATBRA_%2089834_2.jpg",
+    "validade": "10/12/2025"
+  },
+  {
+    "id": 2,
+    "nome": "Kit Kaiak Clássico Masculino (2 unidades)",
+    "descricao": "sinta na pele a potência e o frescor das águas.\n\n• perfumação que dura até 8 horas na pele\n\n• aromático aquoso moderado\n\n• fragrância hiperaquática que combina notas aromáticas, cítricas e aquosas\n\n• frasco com peças plásticas feitas com até 50% de plástico retirado do litoral. \n\ncontém duas unidades do desodorante colônia masculino 100 ml.",
+    "preco": 204.90,
+    "precoAntigo": 371.80,
+    "imagem": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw753bda90/Produtos/NATBRA-199157_2.jpg",
+    "validade": "08/04/2025"
+  },
+  {
+    "id": 3,
+    "nome": "Una Artisan 75 ml",
+    "descricao": " Una sua beleza com Natura Una Artisan\nUma fragrância chipre floral autêntica, como uma peça feita à mão. A costura perfeita entre flores e madeiras quentes ganha um toque cremoso de baunilha e cassis. Enriquecido com priprioca, ingrediente natural da biodiversidade brasileira, Natura Una Artisan exala beleza e elegância.",
+    "preco": 187.70,
+    "precoAntigo": 312.90,
+    "imagem": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw77e2c592/NATBRA-2458_2.jpg",
+    "validade": "07/04/2025"
+  },
+  {
+    "id": 4,
+    "nome": "Presente Natura Tododia Flores (4 produtos)",
+    "descricao": "desperte novas memórias com fragrância inédita de flor de pêssego e jasmim.\n\n• presente perfeito para o dia das mães\n\n• sabonetes que limpam sem ressecar\n\n• deliciosa sensação de maciez na pele\n\n• pele mais firme e ultramacia\n\n• creme que combate o ressecamento\n\n• se adapta às mudanças da sua pele\n\n• com prebiótico, manteiga de cacau e óleo de linhaça\n\n• hidrata até as camadas mais profundas\n\n• body splash com fragrância feminina e envolvente com notas florais\n\n• embalagens ilustradas com as flores que inspiram a fragrância.\n\ncontém caixa com 2 sabonetes em barra de 90 gramas cada creme desodorante nutritivo para o corpo 400 ml creme nutritivo para mãos 50 ml body splash desodorante colônia 200 ml e sacola de presente tamanho P com laço.",
+    "preco": 134.90,
+    "precoAntigo": 206.10,
+    "imagem": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw24271cf3/Produtos/NATBRA-181203_2.jpg",
+    "validade": "29/12/2025"
+  },
+  {
+    "id": 5,
+    "nome": "Meu Primeiro Humor Feminino 75 ml",
+    "descricao": "Fragrância Meu Primeiro Humor: Ousadia e diversão em cada nota.\n\nA fragrância frutal de Meu Primeiro Humor traz uma explosão de alegria com notas cítricas e um vibrante coquetel de frutas, tudo contrastado pelo toque irresistível de frozen de pera. Enriquecida com priprioca, um ingrediente da biodiversidade brasileira, essa fragrância irreverente e ousada transforma a seriedade do cotidiano em pura diversão, sendo o inconfundível queridinho da linha.",
+    "preco": 140.00,
+    "precoAntigo": 153.90,
+    "imagem": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw7a40449a/Produtos/PRODUTO/NATBRA-86723_2.png",
+    "validade": "15/04/2025"
+  },
+  {
+    "id": 6,
+    "nome": "Presente Natura Essencial Atrai",
+    "descricao": "Encante com a nova fragrância feminina de Essencial.\n\nEssencial Atrai é o deo parfum perfeito para quem gosta de florais intensos. Uma fragrância marcante, que celebra o poder da atração. Combina a sensualidade da rosa, com o chocolate e a pimenta-rosa brasileira.\n\nContém:\n• deo parfum feminino 100 ml\n• sacola de presente tamanho P com laço.",
+    "preco": 177.90,
+    "precoAntigo": 278.90,
+    "imagem": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwf916c556/NATBRA-181172_2.jpg",
+    "validade": "29/12/2025"
+  }
+]
